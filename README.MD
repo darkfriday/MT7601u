@@ -68,7 +68,7 @@ sudo nano /etc/modprobe.d/blacklist*
 ```
 and add drivername using following syntax:
 ```
-blacklist MT7601u 
+blacklist mt7601u 
 ```
 
 press “ctrl-w” + press “y” and press enter for save. 
